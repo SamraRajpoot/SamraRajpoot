@@ -40,7 +40,19 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 - Improve my problem-solving skills.
 - Contribute to open-source projects.
 - Keep learning and growing as a developer.
+ 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamraRajpoot&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamraRajpoot&layout=compact&theme=tokyonight&hide_border=true)
+
+ 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SamraRajpoot&theme=tokyonight&hide_border=true)
+
+---
+
+⭐ Thanks for visiting my profile!
  🤝 Let's Connect!
 
 I'm always interested in learning, collaborating, and connecting with fellow developers.
